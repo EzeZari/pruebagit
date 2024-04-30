@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Probando el fetch hollaa
-=======
-Probando el fetch 2da oport
->>>>>>> f455316 (Update prueba2.txt)
-=======
-Probando el fetch 2da oport
->>>>>>> 37618a6fd42f0ade3e390ec0a2cbf3745e6bcd48
+Cambio 2
